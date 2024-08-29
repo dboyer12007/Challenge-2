@@ -100,7 +100,7 @@ End If
 
     j = j + 1
     total = 0
-            
+    change = 0       
 End If
 Next i
         
